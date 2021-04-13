@@ -14,7 +14,7 @@
                     <a href="{{route('products.create')}}"> <i class="menu-icon fa fa-plus"></i>Tambah Produk</a>
                 </li>
 
-                <li class="menu-title">Foto Produk</li><!-- /.menu-title -->
+                <li class="menu-title">Galeri Produk</li><!-- /.menu-title -->
                 <li class="">
                     <a href="{{route('product-galleries.index')}}"> <i class="menu-icon fa fa-list"></i>Lihat Foto Produk</a>
                 </li>
